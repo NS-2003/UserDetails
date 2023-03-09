@@ -1,0 +1,8 @@
+[2023-03-09 11:55:17.887] - 5572 INFO [restartedMain] --- org.apache.catalina.core.StandardService: Starting service [Tomcat]
+[2023-03-09 11:55:17.891] - 5572 INFO [restartedMain] --- org.apache.catalina.core.StandardEngine: Starting Servlet engine: [Apache Tomcat/10.1.5]
+[2023-03-09 11:55:17.927] - 5572 INFO [restartedMain] --- org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]: Initializing Spring embedded WebApplicationContext
+[2023-03-09 11:55:18.059] - 5572 INFO [restartedMain] --- org.hibernate.jpa.internal.util.LogHelper: HHH000204: Processing PersistenceUnitInfo [name: default]
+[2023-03-09 11:55:18.095] - 5572 INFO [restartedMain] --- SQL dialect: HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+[2023-03-09 11:55:18.096] - 5572 WARN [restartedMain] --- org.hibernate.orm.deprecation: HHH90000026: MySQL8Dialect has been deprecated; use org.hibernate.dialect.MySQLDialect instead
+[2023-03-09 11:55:18.148] - 5572 INFO [restartedMain] --- org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator: HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[2023-03-09 11:55:18.163] - 5572 INFO [restartedMain] --- org.apache.catalina.core.StandardService: Stopping service [Tomcat]
